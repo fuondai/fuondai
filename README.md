@@ -13,7 +13,7 @@
 
 # 📊 GitHub Stats: 
 ![](https://github-readme-stats.vercel.app/api?username=fuondai&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> 
-<img align="right" height="250" src="https://i.pinimg.com/originals/93/a1/66/93a166e1b57a6d3a3adb1b0de3e59cea.gif"  />
+<img align="right" height="200" src="https://i.pinimg.com/originals/93/a1/66/93a166e1b57a6d3a3adb1b0de3e59cea.gif"  />
 ![](https://github-readme-streak-stats.herokuapp.com/?user=fuondai&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fuondai&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
