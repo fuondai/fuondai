@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on InforSec
 - 🌱 I’m currently learning Malware
 - 🤔 I’m looking for help with Pentest
-- 📫 How to reach me: fuondai1314@gmail.com
+- 📫 How to reach me: daibp.infosec@gmail.com
 - 😄 Pronouns: he/him
 
 ## 🌐 Socials:
