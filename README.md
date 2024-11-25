@@ -1,7 +1,6 @@
 # 💫 About Me:
 - 🔭 I’m currently working on InforSec
-- 🌱 I’m currently learning Malware
-- 🤔 I’m looking for help with Pentest
+- 🌱 I’m currently learning Malware, Pentest
 - 📫 How to reach me: daibp.infosec@gmail.com
 - 😄 Pronouns: he/him
 
